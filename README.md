@@ -1,6 +1,6 @@
 # ![My Personal site](https://github.com/PepeVianna/My-Personal-Website-CV/blob/main/assets/img/mysite.png?raw=true)
 ## My first Website.
-I did it for myself to be my CV, I used HTML, CSS, Javascript and a Thinkful Template that I found :)
+I did it for myself to be my CV, I used HTML, CSS, Javascript and a Thinkful Template that I found :) <br>
 I wish that you apreciate it.
 
 
